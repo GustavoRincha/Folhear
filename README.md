@@ -14,6 +14,10 @@
 
 ---
 
+> 🔗 **Projeto Full-Stack:** Este repositório é o **Front-End** da aplicação (Interface Web & Estante 3D). Ele se conecta com a [**APIFolhear (Backend & Web Crawler)**](https://github.com/GustavoRincha/APIFolhear) para cotação e rastreamento de preços de livros em tempo real.
+
+---
+
 ## ✨ Principais Funcionalidades
 
 - 📖 **Estante Virtual 3D Interativa:**
